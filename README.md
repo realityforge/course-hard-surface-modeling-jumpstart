@@ -1,3 +1,3 @@
-# Coursework for "Hard Surface MModeling Jumpstart"
+# Coursework for "Hard Surface Modeling Jumpstart"
 
-This contains the projects used for the course [Hard Surface MModeling Jumpstart](https://www.blenderbros.com/products/hard-surface-modeling-jumpstart).
+This contains the projects used for the course [Hard Surface Modeling Jumpstart](https://www.blenderbros.com/products/hard-surface-modeling-jumpstart).
