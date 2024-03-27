@@ -1,5 +1,6 @@
 # Blender Autosave files
 *.blend?
+*.blend??
 
 # Temp directory to experiment in
 /tmp
